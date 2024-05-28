@@ -1,7 +1,7 @@
 {
     "chain_name": "axelar",
     "api": [
-        "https://tm.axelar.lava.build/lava-referer-00cb924a-73a1-4e84-bfc5-6a677c5a9919"
+        "https://rest.axelar.lava.build/lava-referer-00cb924a-73a1-4e84-bfc5-6a677c5a9919"
     ],
     "rpc": [
         "https://tm.axelar.lava.build/lava-referer-00cb924a-73a1-4e84-bfc5-6a677c5a9919"
